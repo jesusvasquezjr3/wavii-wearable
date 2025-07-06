@@ -4,6 +4,7 @@
 <p align="right">
   <img src="images/wavii.png" alt="Logo" width="100"/>
 </p>
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png&logoColor=white)
