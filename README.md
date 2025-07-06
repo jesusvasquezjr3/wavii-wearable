@@ -12,6 +12,7 @@
 ## Resumen
 
 El objetivo de este proyecto fue desarrollar un wearable orientado a la medición de la calidad del sueño. Un wearable de este tipo debe ser capaz de recopilar datos biomédicos precisos, transmitirlos de manera segura a la nube y permitir su análisis por profesionales de la salud a distancia. Este enfoque tiene el potencial de mejorar significativamente la capacidad de diagnóstico y tratamiento de los trastornos del sueño.
+
 ---
 ### Desarrolladores
 JMLV, CJTS, DAGM
