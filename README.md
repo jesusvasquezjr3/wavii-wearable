@@ -1,4 +1,4 @@
-<img src="images/wavii.png" alt="Logo" width="150" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+<img src="images/wavii.png" alt="Logo" width="100" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 # Wavii Wearable - Aplicación de bioinstrumentación y tecnologías biomédicas
 
