@@ -1,6 +1,8 @@
 # Wavii Wearable - Aplicación de bioinstrumentación y tecnologías biomédicas
 
-<img src="images/wavii.png" alt="Logo" width="100" style="float: right;"/>
+<p align="right">
+  <img src="images/wavii.png" alt="Logo" width="100"/>
+</p>
 
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=flat-square&logoColor=white)](https://tec.mx/)
 
