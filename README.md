@@ -1,9 +1,8 @@
 # Wavii Wearable - Aplicación de bioinstrumentación y tecnologías biomédicas
 
+<img src="images/wavii.png" alt="Logo" width="100" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=flat-square&logoColor=white)](https://tec.mx/)
-<p align="right">
-  <img src="images/wavii.png" alt="Logo" width="100"/>
-</p>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
